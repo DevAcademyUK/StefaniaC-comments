@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class rockPaperScissors {
 
-    //Variables declared outside any method to be accessible from anywhere inside the class
+    //Variables declared outside any method to be accessible from anywhere inside the class(instance variables)
     String playerName;
     String playerMove;
     String computerMove;
